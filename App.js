@@ -194,7 +194,7 @@ export default function App() {
       <StatusBar style="auto" />
       <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
         <View style={styles.header}>
-          <Text style={styles.title}>My App</Text>
+          <Text style={styles.title}>Quotify</Text>
           <Text style={styles.subtitle}>Blogs & Quotes</Text>
         </View>
 
